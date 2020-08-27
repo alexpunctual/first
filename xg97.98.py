@@ -1,23 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 31 16:11:23 2020
 
-@author: theod
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 30 20:21:12 2020
-
-@author: theod
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  8 21:31:26 2020
-
-@author: theod
-"""
 
 import numpy as np
 import pandas as pd
